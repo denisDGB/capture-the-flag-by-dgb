@@ -529,11 +529,11 @@
 			]
 		},
 		"challenge-1/c1-ERC20.sol": {
-			"keccak256": "0x31c0565a7e46b605e2bc3b8bcd8beeb9a16be8f03e3e3905d6dcea77f6460e8e",
+			"keccak256": "0xcebb35330bbec6388d60fb14d5310e30ffeb82e1b6f2ecbd78c31c08c63fdf16",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7a0204dca68c54aa191c87a0050f256ec583b2e336914c5f43f01a7b84555b41",
-				"dweb:/ipfs/QmY2vfAG7t8oGBqBCcjGti57DJVUC2kBraxccPvKB9a2Zc"
+				"bzz-raw://9791ffc54a002b1137ee4ddc09380f0f5f837fbe08bbdb7a2bca87b2ab1a2d52",
+				"dweb:/ipfs/QmdoLBDfb2h6HAUVcCbVHr4VxxAopTAtAuAKSATkpxjmc5"
 			]
 		}
 	},
